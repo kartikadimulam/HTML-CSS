@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>My Webpage</title>
+	<link href="https://fonts.googleapis.com/css?family=Oswald" type="text/css" rel="stylesheet" >
+	<link href="https://fonts.googleapis.com/css?family=Arvo" type="text/css" rel="stylesheet" >
+	<link href="https://fonts.googleapis.com/css?family=Lato" type="text/css" rel="stylesheet" >
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" type="text/css" rel="stylesheet" >
+	<link href="https://fonts.googleapis.com/css?family=Vollkorn" type="text/css" rel="stylesheet" >
+	<link type="text/css" rel="stylesheet" href="main.css"/>
+
+</head>
+
+<body>
+<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+	<script src='js/main.js'></script>
+	<h1 id='name'>Kartik Adimulam</h1>
+
+
+	<h2 id='bioo'>My name is Kartik Adimulam. I am 14 years old and I go to <a href="http://www.vcs.net/" id="linkone">Valley Christian</a>. I am pretty new to coding
+and it is one of my hobbies. This is a webpage about me.</h2>
+	<div class='skillset'>
+	<div class='skill-html'>
+		<p class='description>'
+	<div id='h3h3' class='button'>Some of my hobbies/interests are:</div>
+
+	<ul class='links'>
+		<a href="http://www.siliconvalleynjb.com/Spring-league"><li>Basketball</li></a>
+		<a href="https://www.youtube.com/watch?v=WSHhp-VXTZs"><li>Music</li></a>
+		<a href="https://www.khanacademy.org/"><li>Learning</li></a>
+		<a href="https://en.wikipedia.org/wiki/Harry_Potter"><li>Reading</li></a>
+		<a href="https://www.codecademy.com/learn"><li>Coding</li></a>
+	
+	</ul>
+		</p>
+	</div>
+	</div>
+
+		<p id="biotwo">Although I would love to have a job, I have a lot to learn, so I am still in school. My favorite subjects
+are math, science, and history. Aside from school, I am still searching for my personal passion in Mathematics, Science, or Engineering. 
+Coding through websites such as Codecademy. This is the first of hopefully more projects</p>
+
+
+	<h2 id="moreaboutinterests">More About My interests</h2>
+		<p id='biothree'>My main hobby since I was young has probably always been basketball. I started playing basketball when I was 7, and I have loved it since.
+From playing in my backyard for fun, to playing off the bench on my school team, to being the leader of my own team, I have come a long way, and I 
+am always pushing myself to be better. Another recent hobby for me has been music. I started playing the tuba this school year, and I really enjoy it.
+So far I have only had two major performances, but I hope to continue in High School. Learning is not really a generic hobby, but I enjoy learning new 
+things, such as learning to code, even if it is frustrating in the beginning. This is the first coding project I have done myself, so there is a lot that could be better. I 
+know that I will continue to pursue this interest, and keep getting better at it.</p>
+
+	<a href="https://www.youtube.com/watch?v=BuEttYtsJhw"><img src="http://www.fbschool.org/_assets/images/basketball.jpg" width="500" height="300" align="middle" alt="basketball"></a>
+
+
+
+</body>
+</html>
